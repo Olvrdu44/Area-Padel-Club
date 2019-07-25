@@ -5,7 +5,7 @@
         Réservez vos terrains, ajoutez-vous à des parties et participez aux animations
     </description>
     <author email="contact@rainetcom.fr" href="http://www.rainetcom.fr">
-        Olivier Schunemann
+        Team RainetCom
     </author>
     <content src="index.html" />
     <preference name="DisallowOverscroll" value="true" />
@@ -89,12 +89,12 @@
 		</edit-config>
     </platform>
 	<engine name="ios" spec="~4.5.3" />
-    <engine name="android" spec="~8.0.0" />
+    <engine name="android" spec="~6.3.0" />
     <plugin name="cordova-plugin-dialogs" spec="~1.2.1" />
     <plugin name="cordova-plugin-network-information" spec="^1.3.3" />
     <plugin name="cordova-plugin-inappbrowser" spec="^1.7.1" />
     <plugin name="onesignal-cordova-plugin" spec="2.4.1" />
-	<preference name="phonegap-version" value="cli-6.5.0" />
+	<preference name="phonegap-version" value="cli-8.0.0" />
     <plugin name="cordova-plugin-whitelist" spec="~1.2.1" />
     <allow-navigation href="*" />
     <allow-intent href="*" />
